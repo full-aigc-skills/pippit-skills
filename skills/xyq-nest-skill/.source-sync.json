@@ -1,0 +1,11 @@
+{
+  "sourceId": "pippit",
+  "remote": "https://gitee.com/Pippit-dev/pippit-skills.git",
+  "ref": "master",
+  "commit": "72c57fffd28e53db7422930666e9cd83c9054b13",
+  "targetGroup": "pippit-skills",
+  "skill": "xyq-nest-skill",
+  "upstreamSkill": "xyq-nest-skill",
+  "slugMode": "preserve",
+  "syncedAt": "2026-05-14T15:13:39Z"
+}

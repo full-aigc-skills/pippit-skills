@@ -1,0 +1,14 @@
+{
+  "name": "pippit-skills",
+  "version": "1.0.0",
+  "description": "小云雀 (Pippit) AIGC skills — text-to-image, text-to-video, image-to-video, style transfer, short drama MV",
+  "author": {
+    "name": "AIGC Skills Community"
+  },
+  "homepage": "https://github.com/full-aigc-skills/pippit-skills",
+  "repository": "https://github.com/full-aigc-skills/pippit-skills",
+  "source": "./",
+  "skills": [
+    "./skills/xyq-nest-skill"
+  ]
+}
