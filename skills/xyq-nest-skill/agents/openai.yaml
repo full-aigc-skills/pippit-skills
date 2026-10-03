@@ -1,0 +1,4 @@
+interface:
+  display_name: "小云雀图片与视频创作"
+  short_description: "通过小云雀组织图片或视频生成、编辑和分镜，核对参考素材与任务状态"
+  default_prompt: "使用 $xyq-nest-skill 通过小云雀组织图片或视频生成、编辑和分镜，核对参考素材与任务状态；先核对输入、可用能力和交付要求。"
